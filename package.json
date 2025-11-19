@@ -1,0 +1,19 @@
+{
+  "name": "react-generic-elements",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaykyOne/react-generic-elements.git"
+  },
+  "author": "kayky zioti (kaykyOne)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaykyOne/react-generic-elements/issues"
+  },
+  "homepage": "https://github.com/KaykyOne/react-generic-elements#readme"
+}
